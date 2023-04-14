@@ -3,7 +3,7 @@
    "version": "1.0.0",
    "description": "",
   "scripts": {
-      "build": "echo go build" && exit 1",
+      "build": "echo go build\" && exit 1",
       "test": "echo \"No test specified\" && exit 1",
       "start": "go run ."
     },
