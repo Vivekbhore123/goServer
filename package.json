@@ -5,7 +5,7 @@
   "scripts": {
       "build": "echo go build .",
       "test": "echo \"No test specified\" && exit 1",
-      "start": "go run ."
+      "start": "./youtube"
     },
    "repository": {
      "type": "git",
